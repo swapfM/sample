@@ -11,10 +11,10 @@ body{
 }
 
 .first{
-    width: 1440px;
-    height: 500px;
+    width: 1000px;
+    height: 300px;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 10%;
     border-radius: 8px;
     background-color: hsl(244, 38%, 16%);
    
@@ -23,13 +23,13 @@ body{
 }
 .left{
     width: 50%;
-    height: 500px;
+    height: 300px;
     float: left;
     
 }
 .right{
     width: 50%;
-    height: 500px;
+    height: 300px;
     float: right;
     width: 50%;
     background: linear-gradient(hsl(277, 64%, 61%),hsl(277, 64%, 61%)),
